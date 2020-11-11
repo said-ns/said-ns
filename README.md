@@ -1,9 +1,10 @@
-### Welcome, I'm Said
+### Welcome, I'm Said.
 
 I'm a frontend web developer as well as a web and UI/UX designer. 
 
-- I’m currently working on ...
-- My skills include 
+- I’m currently working on 
+
+- My skills include...
   - HTML, CSS, and JS
   - UI/UX Knowledge
   - web design fundamentals
@@ -11,7 +12,10 @@ I'm a frontend web developer as well as a web and UI/UX designer.
   - Adobe XD
   - Figma
   - UI/UX components design
+  - Website Publishing(Domain, Hosting, DNS)
+  
 - My design portfolio can be found here: https://www.behance.net/saidns
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
