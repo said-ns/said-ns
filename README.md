@@ -1,4 +1,4 @@
-##### Welcome, I'm Said.
+# Welcome, I'm Said.
 
 I'm a frontend web developer as well as a web and UI/UX designer. 
 
