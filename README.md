@@ -19,6 +19,6 @@ Check out my work! My portfolio can be found here: https://www.behance.net/saidn
    - Figma
    - UI/UX components development
    - website setup(Domain, Hosting, DNS)
-- Ask me about frontend web development! I am always down to work and develop your next project.
+- Ask me about frontend web development! I am always down to work and develop your next project if compensated.
 - You can reach me on Discord @Said_NS#5365 or puppetmaster.ens@gmail.com
 
