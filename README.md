@@ -9,6 +9,7 @@
 
 Check out my work! My portfolio can be found here: https://www.behance.net/saidns
 
+### A little bit about me...
 - I’m currently working on a few SaaS projects. More info about them will be released at a later date.
 - I am proficient in...
    - HTML, CSS, and JS
